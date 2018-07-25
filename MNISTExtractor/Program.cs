@@ -70,6 +70,8 @@ namespace MNISTExtractor
                 image.Dispose();
                 Print(name);
             }
+            Print("Conversion completed!");
+            Pause();
         }
         static int ReadInt(BinaryReader reader)
         {
