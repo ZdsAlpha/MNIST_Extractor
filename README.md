@@ -8,3 +8,14 @@ A C# console application to extract images from MNIST dataset and save it to 10 
 - Enter output directory
 # Output
 It will generate a directory and create 10 directories name ranging from 0 to 9. It will extract each image from MNIST dataset and will place it into the directory it is crossponds to.
+# Screenshot
+![](https://github.com/ZdsAlpha/MNIST_Extractor/blob/master/Screenshots/App.png?raw=true)
+
+------------
+
+
+![](https://github.com/ZdsAlpha/MNIST_Extractor/blob/master/Screenshots/Directories.png?raw=true)
+
+------------
+
+![](https://github.com/ZdsAlpha/MNIST_Extractor/blob/master/Screenshots/Files.png?raw=true)
